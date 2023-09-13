@@ -1,0 +1,54 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": 100,
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Rib Eye 1 kg",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "New york 800gr",
+      "precio": 800,
+      "id": 8
+    },
+    {
+      "nombre": "Jugo de piña",
+      "precio": 100,
+      "id": 9
+    },
+    {
+      "nombre": "limonada",
+      "precio": 100,
+      "id": 11
+    },
+    {
+      "nombre": "huevos 1kg",
+      "precio": 200,
+      "id": 12
+    },
+    {
+      "nombre": "Pizza",
+      "precio": 200,
+      "id": 13
+    },
+    {
+      "nombre": "Carne al pastor 1 kg",
+      "precio": 250,
+      "id": 14
+    }
+  ]
+}
